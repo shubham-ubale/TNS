@@ -1,19 +1,50 @@
-# AI/ML Projects 🚀
+# AI/ML Projects Repository 🚀
 
-This repository contains my AI/ML projects built using Python, Machine Learning, and Deep Learning.
+This repository contains a collection of my **Machine Learning, Deep Learning, and NLP projects** implemented using Python and popular libraries.
 
-## Projects
+## 📌 Projects Included
 
-### 1. House Price Prediction
-- Linear Regression model
-- Dataset: Kaggle
-- Accuracy: 87%
+- 📊 **EDA & Data Analysis**
+  - Amazon Sales Analysis
 
-### 2. Image Classifier
-- CNN using TensorFlow
-- Classifies images into categories
+- 🤖 **Machine Learning Models**
+  - Car Price Prediction (Linear Regression)
+  - Logistic Regression (HR Data)
+  - KNN, SVM, Decision Tree, Random Forest
+  - PCA (Dimensionality Reduction)
+  - K-Means Clustering (Iris & Mall Customers)
 
-## Tech Stack
+- 🧠 **Deep Learning**
+  - CNN for MNIST Digit Classification
+  - TensorFlow-based Models
+  - Cats vs Dogs Classifier
+
+- 🗣️ **Natural Language Processing (NLP)**
+  - Text Preprocessing
+  - Twitter Sentiment Analysis
+  - NLTK Practice
+
+## 🛠️ Tech Stack
+
 - Python
+- NumPy, Pandas, Matplotlib, Seaborn
 - Scikit-learn
-- TensorFlow / PyTorch
+- TensorFlow / Keras
+- NLTK / SpaCy
+
+## 📂 Datasets Used
+
+Includes datasets like:
+- Amazon Sales
+- HR Analytics
+- Diabetes Dataset
+- Iris Dataset
+- Mall Customers
+
+## 🎯 Objective
+
+To practice and implement core concepts of **Machine Learning, Deep Learning, and NLP** through hands-on projects.
+
+---
+
+⭐ Feel free to explore and use these projects for learning!
